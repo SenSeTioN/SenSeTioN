@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%"  style="display:inline; object-fit: cover;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline; object-fit: cover;">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=35&pause=1000&color=14ADE9E6&background=A509D100&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B!+I'm+Eduard+Lankov;and+I'm+frontend+developer)](https://git.io/typing-svg)
 
@@ -47,24 +47,25 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+## Contact with me 💬
+[![Telegram](https://img.shields.io/badge/-Telegram-0c0f15?style=for-the-badge&logo=telegram&logoColor=b0b0bb)](https://t.me/ISenSaTioNI)
+
 ## Some Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenSeTioN&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&size_weight=0&count_weight=1&layout=donut&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats)
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+       
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenSeTioN&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats) </td>
+
+<td> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&size_weight=0&count_weight=1&layout=donut&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats) </td>
+ </tr>
+  </table>
+
 
 
 <!--
-**SenSeTioN/SenSeTioN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ✨ 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 -->
