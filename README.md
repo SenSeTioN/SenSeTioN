@@ -20,7 +20,7 @@
 
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=SenSeTioN&color=42BFE9&label=VIEWS👁️&style=for-the-badge&base=1000)
+![](https://komarev.com/ghpvc/?username=SenSeTioN&color=42BFE9&label=VIEWS👁️&style=for-the-badge)
 
 </div>
 
