@@ -48,7 +48,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Contact with me 💬
-[![Telegram](https://img.shields.io/badge/-Telegram-0c0f15?style=for-the-badge&logo=telegram&logoColor=b0b0bb)](https://t.me/ISenSaTioNI)
+<div id="badges">
+    <a href="https://t.me/ISenSaTioNI" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
 
 ## Some Stats 📊
 
@@ -64,7 +68,13 @@
  </tr>
   </table>
 
+### 💻 Codewars:
 
+![codewars](https://www.codewars.com/users/SenSeTioN/badges/large)
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!--
  ✨ 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
