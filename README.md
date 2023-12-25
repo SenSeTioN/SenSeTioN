@@ -68,9 +68,6 @@
  </tr>
   </table>
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/SenSeTioN/badges/large)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
