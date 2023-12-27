@@ -64,7 +64,7 @@
 
 <td> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&size_weight=0.5&count_weight=0.5&layout=donut&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats) </td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&size_weight=0.1&count_weight=0.1&layout=donut&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats) </td>
  </tr>
   </table>
 
