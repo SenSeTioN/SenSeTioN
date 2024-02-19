@@ -58,13 +58,9 @@
 
  <table align="center" width="100%" height="100%" >
    <tr>
-     <td> 
-       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenSeTioN&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats) </td>
-
-<td> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&size_weight=0.1&count_weight=0.1&layout=donut&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats) </td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&size_weight=0.1&count_weight=0.1&layout=donut&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats)
+
  </tr>
   </table>
 
