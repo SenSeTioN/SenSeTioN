@@ -53,6 +53,9 @@
     </a>
   </div>
 
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## Some Stats 📊
 
  <table align="center" width="100%" height="100%" >
