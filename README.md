@@ -1,15 +1,14 @@
 <div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=35&pause=1000&color=14ADE9E6&background=A509D100&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B!+I'm+Eduard+Lankov;and+I'm+frontend+developer)](https://git.io/typing-svg)
-
+  
   <h1 align="center">✨Hi Everyone✨</h1> 
   <h3 align="center">Frontend development is my passion and hobby that I have been doing for several years now.</h3>
   <p align="center">I am actively involved in the developer community, learning and training to constantly improve my skills.
   My approach to frontend development is based on neat code, modular architecture and best practices.
   I am ready to bring any idea to life and create a frontend application that will delight users with its functionality and design.</p>
-
-
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
