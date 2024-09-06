@@ -40,7 +40,7 @@
 - Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,postgresql,firebase&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase&perline=7" />
   </a>
 </p>
 
