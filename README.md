@@ -11,7 +11,7 @@
   I am ready to bring any idea to life and create a frontend application that will delight users with its functionality and design.</p>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="assets/color-line.gif" height="20" width="100%">
 
 ## My Stack 🛠️
 
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="assets/color-line.gif" height="20" width="100%">
 
 ## Contact with me 💬
 <div id="badges">
@@ -54,7 +54,7 @@
   </div>
 
 <br/>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="assets/color-line.gif" height="20" width="100%">
 
 ## Some Stats 📊
 
