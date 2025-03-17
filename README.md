@@ -61,7 +61,7 @@
  <table align="center" width="100%" height="100%" >
    <tr>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&langs_count=6&size_weight=1&count_weight=0&layout=pie&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&langs_count=8&size_weight=1&count_weight=0&layout=pie&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats)
 
  </tr>
   </table>
