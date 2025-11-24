@@ -2,7 +2,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=35&pause=1000&color=14ADE9E6&background=A509D100&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B!+I'm+Eduard+Lankov;and+I'm+frontend+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=35&pause=1000&color=14ADE9E6&background=A509D100&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B!+I'm+Eduard;and+I'm+frontend+developer)](https://git.io/typing-svg)
   
   <h1 align="center">✨Hi Everyone✨</h1> 
   <h3 align="center">Frontend development is my passion and hobby that I have been doing for several years now.</h3>
