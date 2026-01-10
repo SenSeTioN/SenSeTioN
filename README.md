@@ -33,14 +33,14 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab,webpack,vite,babel,postman,jenkins,npm,yarn&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab,webpack,vite,postman,jenkins,npm,yarn,bun,docker,nginx&perline=7" />
   </a>
 </p>
 
 - Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase,redis,rabbitmq&perline=7" />
   </a>
 </p>
 
