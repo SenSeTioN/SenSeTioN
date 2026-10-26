@@ -26,21 +26,21 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,redux,nextjs,jest,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,redux,nextjs,jest,vercel,chadcn&perline=7" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab,webpack,vite,postman,jenkins,npm,yarn,bun,docker,nginx&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab,webpack,vite,postman,jenkins,npm,yarn,bun,docker,nginx,grafana&perline=7" />
   </a>
 </p>
 
 - Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase,redis,rabbitmq&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase,redis,rabbitmq,kafka&perline=7" />
   </a>
 </p>
 
