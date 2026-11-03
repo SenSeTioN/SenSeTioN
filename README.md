@@ -67,23 +67,29 @@
 
 
 ## Some Stats 📊
-
- <table align="center" width="100%" height="100%" >
-   <tr>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&langs_count=8&size_weight=1&count_weight=0&layout=pie&theme=github_dark&border_color=14ADE99A)](https://github.com/SenSeTioN/github-readme-stats)
-
- </tr>
-
- <tr>
-<img src="https://streak-stats.demolab.com?user=SenSeTioN&theme=github-dark-blue&hide_border=true"/>
- </tr>  
-  </table>
+<p align="center">
+  <a href="https://github.com/SenSeTioN">
+    <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SenSeTioN&show_icons=true&theme=github-dark-blue" alt="SenSeTioN's GitHub stats" />
+  </a>
+  <a href="https://github.com/SenSeTioN">
+    <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&layout=compact&theme=github-dark-blue&hide=html" alt="Top languages" />
+  </a>
+</p>
 
 <p align="center">
-  
    <img width="600" src="assets/github-snake.svg" alt="snake"/>
-   
+</p>
+
+<p align="center">
+  <a href="https://github.com/SenSeTioN">
+    <img src="https://streak-stats.demolab.com/?user=SenSeTioN&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SenSeTioN">
+    <img src="https://github-trophies.vercel.app/?username=SenSeTioN&theme=github-dark-blue&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14ADE9,100:A509D1&height=90&section=footer" width="100%"/>
