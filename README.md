@@ -6,10 +6,9 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=35&pause=1000&color=14ADE9E6&background=A509D100&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B!+I'm+Eduard;and+I'm+full+stack+developer)](https://git.io/typing-svg)
   
-  <h1 align="center">✨Hi Everyone✨</h1> 
-  <h3 align="center">Frontend development is my passion and hobby that I have been doing for several years now.</h3>
+  <h1 align="center">✨From UI to Database✨</h1>
+  <h3 align="center">Pixel-perfect on the front, reliable on the back.</h3>
   <p align="center">  
-  I build products end to end, from pixel-perfect UI to a reliable backend.
   I started in frontend and grew into full-stack. Today I build interfaces with React and Next.js and services with Go,
   on top of PostgreSQL, Redis and Kafka. I care about clean code, modular architecture and systems that are easy to 
   maintain. Give me an idea, and I'll take it from the first sketch to production.</p>
