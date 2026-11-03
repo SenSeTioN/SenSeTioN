@@ -69,10 +69,10 @@
 ## Some Stats 📊
 <p align="center">
   <a href="https://github.com/SenSeTioN">
-    <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SenSeTioN&show_icons=true&theme=github-dark-blue" alt="SenSeTioN's GitHub stats" />
+    <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SenSeTioN&show_icons=true&theme=tokyonight" alt="SenSeTioN's GitHub stats" />
   </a>
   <a href="https://github.com/SenSeTioN">
-    <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&layout=compact&theme=github-dark-blue&hide=html" alt="Top languages" />
+    <img height="170" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SenSeTioN&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://github.com/SenSeTioN">
-    <img src="https://github-trophies.vercel.app/?username=SenSeTioN&theme=github-dark-blue&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+    <img src="https://github-trophies.vercel.app/?username=SenSeTioN&theme=discord&no-frame=true&row=1&column=7" alt="GitHub trophies" />
   </a>
 </p>
 
