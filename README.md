@@ -49,10 +49,6 @@
 
 <img src="assets/color-line.gif" height="20" width="100%">
 
-  <p align="right">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-  </p>
-
 ## Let's connect 🤝
 <div id="badges">
    <p align="left">
