@@ -52,19 +52,16 @@
 <img src="assets/color-line.gif" height="20" width="100%">
 
 ## Let's connect 🤝
-<div id="badges">
-   <p align="left">
-      <a href="https://t.me/elankov" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-      </a>
-  </p>
-  
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-  </p>
-</div>
 
-<br/>
+<p align="center">
+  <a href="https://t.me/elankov" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+</p>
+
+<br clear="left"/>
 <img src="assets/color-line.gif" height="20" width="100%">
 
 
