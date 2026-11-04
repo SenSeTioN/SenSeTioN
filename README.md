@@ -17,8 +17,10 @@
 <img src="assets/color-line.gif" height="20" width="100%">
 
 ## My Stack 🛠️
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="left">
+  <p align="right">  
+  <img alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  </p>
 
 <div align="right">
 
@@ -46,6 +48,8 @@
     <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase,redis,rabbitmq,kafka&perline=7" />
   </a>
 </p>
+
+</div>
 
 <img src="assets/color-line.gif" height="20" width="100%">
 
@@ -77,7 +81,7 @@
 </p>
 
 <p align="center">
-   <img width="600" src="assets/github-snake.svg" alt="snake"/>
+   <img width="750" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 <p align="center">
