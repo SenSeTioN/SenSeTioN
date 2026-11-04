@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/SenSeTioN">
-    <img src="https://streak-stats.demolab.com/?user=SenSeTioN&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+    <img height="170" src="https://streak-stats.demolab.com/?user=SenSeTioN&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
 
