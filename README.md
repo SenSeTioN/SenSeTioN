@@ -18,9 +18,11 @@
 
   ## My Stack 🛠️ 
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SenSeTioN&color=42BFE9&label=VIEWS👁️ &style=for-the-badge" />
-  </p>
+  <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=SenSeTioN&color=42BFE9&label=VIEWS👁️&style=for-the-badge)
+
+  </div>
 
   - Frontend
   <p align="left">
