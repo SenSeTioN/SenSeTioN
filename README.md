@@ -54,7 +54,9 @@
 ## Let's connect 🤝
 
 <p align="center">
-  <a href="https://t.me/elankov" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /></a>
+  <a href="https://t.me/elankov" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 <p align="center">
