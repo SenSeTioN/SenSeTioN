@@ -18,16 +18,16 @@
 
 ## My Stack 🛠️
 <div align="left">
-  <p align="right">  
-  <img alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  </p>
-
-<div align="right">
+  <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=SenSeTioN&color=42BFE9&label=VIEWS👁️&style=for-the-badge)
 
-</div>
+  </div>
 
+<table>
+  <tr>
+  <td align="center" width="50%">
+    
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -48,7 +48,16 @@
     <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,postgresql,firebase,redis,rabbitmq,kafka&perline=7" />
   </a>
 </p>
+</td>
 
+<td align="center" width="50%">
+  <p>  
+    <img alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  </p>
+</td>
+
+</tr>
+</table>
 </div>
 
 <img src="assets/color-line.gif" height="20" width="100%">
